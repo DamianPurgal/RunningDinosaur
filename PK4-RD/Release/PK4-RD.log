@@ -1,0 +1,19 @@
+﻿  Cactus.cpp
+  Coin.cpp
+  FlyingDinosaur.cpp
+  Game.cpp
+  GraphicObjectWithCollision.cpp
+  Menu.cpp
+C:\Users\Damian\source\repos\PK4-RD\PK4-RD\Menu.cpp(31,30): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Player.cpp
+C:\Users\Damian\source\repos\PK4-RD\PK4-RD\Player.cpp(36,23): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  Scoreboard.cpp
+C:\Users\Damian\source\repos\PK4-RD\PK4-RD\Scoreboard.cpp(137,39): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Damian\source\repos\PK4-RD\PK4-RD\Scoreboard.cpp(155,39): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+  main.cpp
+  Trwa generowanie kodu
+  62 of 677 functions ( 9.2%) were compiled, the rest were copied from previous compilation.
+    29 functions were new in current compilation
+    56 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  PK4-RD.vcxproj -> C:\Users\Damian\source\repos\PK4-RD\Release\PK4-RD.exe
